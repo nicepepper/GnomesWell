@@ -1,2 +1,2 @@
 # GnomesWell
-Example of a game on UNITY
+Example of a game on Unity
