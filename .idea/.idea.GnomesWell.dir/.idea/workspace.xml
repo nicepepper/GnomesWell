@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd4cb1b0-1397-4ddb-9daa-93a4fe20299a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GnomesWell.dir/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/GnomesWell/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Library/Artifacts/31/316397834f0d67cab5cd714e62c4350a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/GnomesWell/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/GnomesWell/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GnomesWell/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/GnomesWell/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/GnomesWell/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/GnomesWell/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Library/StateCache/Hierarchy/3594c2-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/GnomesWell/Library/StateCache/Hierarchy/3594c2-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Library/StateCache/SceneView/76ca3d-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/GnomesWell/Library/StateCache/SceneView/76ca3d-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GnomesWell/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/GnomesWell/Library/expandedItems" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GnomesWell/Assets/Scripts/Rope.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1jCRgpDPDSaHY95eRLLW0HVpFdN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd4cb1b0-1397-4ddb-9daa-93a4fe20299a" name="Default Changelist" comment="" />
+      <created>1603306203110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603306203110</updated>
+      <workItem from="1603306211617" duration="354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="165" key="SettingsEditor" timestamp="1603306500413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="141" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603306500413" />
+  </component>
+</project>
