@@ -82,7 +82,7 @@ public class GameManager : Singleton<GameManager>
 
       foreach (Transform child in currentGnome.transform)
       {
-        child.gameObject.tag = "untagged";
+        child.gameObject.tag = "Untagged";
       }
 
       currentGnome = null;

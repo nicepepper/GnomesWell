@@ -174,7 +174,7 @@ public class Gnome : MonoBehaviour
                 // Добавить дух
                 Instantiate(
                     ghostPrefab,
-                    transform.position,
+                    cameraFollowTarget.position,
                     Quaternion.identity
                 );
             }
